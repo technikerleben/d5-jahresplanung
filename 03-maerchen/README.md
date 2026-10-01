@@ -6,7 +6,9 @@
 
 ## Zielaufgabe
 
-Ein Märchen nach klaren Vorgaben fortsetzen, umformen oder neu gestalten und dabei typische Märchenmerkmale sowie einen verständlichen Handlungsverlauf nutzen.
+Ein **unbekanntes begonnenes Märchen passend fortsetzen und zu Ende führen**. Dabei typische Märchenmerkmale, stimmige Figurenrollen, einen nachvollziehbaren Handlungsaufbau und märchentypische Sprache nutzen.
+
+→ [Ausformulierte Zielaufgabe und Kompetenzraster](Zielaufgabe_Kompetenzraster.md)
 
 ## Fünf Etappen
 
@@ -20,6 +22,16 @@ Ein Märchen nach klaren Vorgaben fortsetzen, umformen oder neu gestalten und da
 
 Ein gemeinsames **Klassen-Märchenbuch**. Das Lernprodukt ist nicht identisch mit der Lernerfolgskontrolle; diese nutzt einen neuen Ausgangstext bzw. neue Vorgaben.
 
+## Kompetenzraster
+
+Fünf Kompetenzen mit Mindest-, Regel- und Leistungsstandard sind festgelegt:
+
+1. Textmuster Märchen nutzen
+2. Figuren und Rollen gestalten
+3. Handlung aufbauen
+4. Märchentypisch und anschaulich erzählen
+5. Schreiben prüfen und überarbeiten
+
 ## Nächster Planungsschritt
 
-Zielaufgabe präzisieren → Kompetenzraster mit Mindest-, Regel- und Leistungsstandard → fünf Gelingensnachweise ableiten.
+Für jede der fünf Etappen den **Input + identisches Merkblatt**, Pflichtübungen, freiwillige Vertiefungen und einen passenden Gelingensnachweis ableiten.
