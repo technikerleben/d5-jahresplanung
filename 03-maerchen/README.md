@@ -35,3 +35,29 @@ Fünf Kompetenzen mit Mindest-, Regel- und Leistungsstandard sind festgelegt:
 ## Nächster Planungsschritt
 
 Für jede der fünf Etappen den **Input + identisches Merkblatt**, Pflichtübungen, freiwillige Vertiefungen und einen passenden Gelingensnachweis ableiten.
+
+
+## Etappenplanung und Märchenbuch
+
+Die fünf Etappen sind vollständig als SRL-Lernweg geplant:
+
+→ [Etappenplanung mit Inputs, Pflichtübungen, Vertiefungen und Gelingensnachweisen](Etappenplanung.md)
+
+Das gemeinsame Lernprodukt wächst über die gesamte Reihe:
+
+→ [Konzept „Unser gemeinsames Märchenbuch“](Maerchenbuch_Konzept.md)
+
+### Buchbeiträge der fünf Etappen
+
+1. eigener Märchenanfang
+2. Figurenbegegnung
+3. Prüfung / Wendung
+4. zauberhafte Szene
+5. vollständiges Märchen
+
+Ausformulierte und überarbeitete Märchentexte wandern in das gemeinsame Buch. Gelingensnachweise, Planungsblätter und Probearbeit bleiben Lernunterlagen.
+
+## Nächster Produktionsschritt
+
+Etappe 1 materialisieren:
+**Input 1 + identisches Merkblatt 1 → Pflichtübungen → freiwillige Vertiefungen → Buchtext „Märchenanfang“ → GN1 „Ist das ein Märchen?“**
