@@ -9,8 +9,8 @@ Dieses Repository bündelt die **übergreifende Planung**, gemeinsame Standards 
 1. **Wunschbriefe** · Aufgabentyp 3 · bestehendes Repo: [d5ur1-wunschbriefe](https://github.com/technikerleben/d5ur1-wunschbriefe)
 2. **Zootiere** · Aufgabentyp 2 · bestehendes Repo: [d5ur2-zootiere](https://github.com/technikerleben/d5ur2-zootiere)
 3. **Märchen** · Aufgabentyp 6 · fünf Etappen
-4. **Unterwegs mit der Bahn** · Aufgabentyp 4b · fünf Etappen
-5. **Spannend erzählen · Zauberschule** · Aufgabentyp 1 · fünf Etappen
+4. **Spannend erzählen · Zauberschule** · Aufgabentyp 1 · fünf Etappen
+5. **Unterwegs mit der Bahn** · Aufgabentyp 4b · fünf Etappen
 6. **Ganzschrift** · Aufgabentyp 4a · fünf Etappen
 
 Aufgabentyp 5 wird nicht künstlich in Jahrgang 5 erzwungen und kann in Jahrgang 6 gezielt aufgegriffen werden.
