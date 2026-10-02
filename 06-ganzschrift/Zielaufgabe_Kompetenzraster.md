@@ -4,107 +4,175 @@
 **Jahrgang:** 5  
 **Aufgabentyp:** Typ 4a · einen literarischen Text mithilfe von Fragen untersuchen  
 **Rahmen:** fünf Etappen  
-**Schulinterner Schwerpunkt:** Umgang mit einer Ganzschrift, Figuren, Handlung, textgebundene Stellungnahme
+**Schulinterner Umfang:** 24–28 Stunden  
+**Schulinterner Schwerpunkt:** Umgang mit einer Ganzschrift, Lesetagebuch, Figuren, kreative Perspektivwechsel und textgebundene Reflexion
 
 ## Curriculare Ausgangslage
 
-Das schulinterne Curriculum sieht für die Lektürereihe unter anderem vor:
+Das schulinterne Curriculum plant die Lektürereihe deutlich breiter als eine reine Vorbereitung auf eine Typ-4a-Klassenarbeit. Vorgesehen sind insbesondere:
 
 - Inhaltszusammenfassungen und Zwischenüberschriften,
 - Figurenkonstellationen,
 - Rollenbiografie und Charakterisierung,
-- innere Monologe und Tagebucheinträge,
+- innerer Monolog und Tagebucheinträge,
 - zentrale Aussagen in Texten identifizieren,
 - Figuren und Figurenbeziehungen untersuchen,
-- erzählende Texte untersuchen,
-- eine persönliche Stellungnahme zu Ereignissen oder zum Verhalten literarischer Figuren textgebunden formulieren,
-- Lesetagebuch bzw. Portfolio.
+- persönliche Stellungnahmen zu Ereignissen oder zum Verhalten literarischer Figuren textgebunden formulieren,
+- Arbeit am Lesetagebuch,
+- Reflexion der Aussagekraft der Lektüre und Bezüge zur Gegenwart.
 
-Die Reihe ist mit 24–28 Stunden bewusst umfangreicher angelegt.
+Als Produkte bzw. Überprüfungsformate nennt das schulinterne Curriculum **Lesetagebuch / Klassenarbeit / Portfolio**.
 
-## Zentrale Zielkompetenz
+## Zentrale Zielkompetenz der Reihe
 
-**Ich kann einen Ausschnitt aus einer gelesenen Ganzschrift genau untersuchen. Ich erfasse, was geschieht, ordne die Textstelle in die Handlung ein, untersuche Figuren und ihre Beziehungen und begründe meine Aussagen mit passenden Stellen aus dem Text.**
+**Ich kann eine Ganzschrift verstehen, wichtige Handlungsschritte und Figurenbeziehungen untersuchen, Perspektiven von Figuren nachvollziehen und meine Aussagen mit dem Text begründen. Ich kann außerdem erklären, welche Bedeutung Ereignisse oder Themen der Lektüre für mich und die Gegenwart haben können.**
 
 ## Kernaufgabe der Lernerfolgskontrolle
 
+Die Kernaufgabe bleibt bewusst klar bei **Typ 4a**.
+
 ### Ausgangslage
 
-Du erhältst einen **überschaubaren Ausschnitt aus der im Unterricht gelesenen Ganzschrift**. Die Textstelle ist bekannt genug, um sie in die Gesamtgeschichte einordnen zu können, wird aber in der Arbeit vollständig abgedruckt.
+Du erhältst einen **überschaubaren Ausschnitt aus der im Unterricht gelesenen Ganzschrift**. Die Textstelle wird vollständig abgedruckt.
 
 ### Auftrag
 
 **Untersuche die Textstelle mithilfe der Aufgaben.**
 
-Eine Lernerfolgskontrolle kann zum Beispiel diese fünf Aufgabenschritte enthalten:
+Eine Lernerfolgskontrolle kann diese bekannten Arbeitsschritte enthalten:
 
 1. **Inhalt erfassen:** Gib knapp wieder, was in der Textstelle geschieht.
 2. **Einordnen:** Erkläre, an welcher Stelle der Handlung die Szene steht und was vorher wichtig war.
-3. **Figur untersuchen:** Beschreibe, was eine zentrale Figur in der Szene denkt, fühlt oder tut, und leite daraus passende Eigenschaften ab.
-4. **Beziehung untersuchen:** Erkläre, wie zwei Figuren in der Szene miteinander umgehen und was die Textstelle über ihre Beziehung zeigt.
-5. **Textgebunden Stellung nehmen:** Beurteile eine Entscheidung oder ein Verhalten einer Figur und begründe deine Einschätzung mit der Textstelle und dem Wissen aus der Ganzschrift.
+3. **Figur oder Beziehung untersuchen:** Beschreibe, was eine Figur denkt, fühlt oder tut, und leite daraus Eigenschaften oder Aussagen über eine Figurenbeziehung ab.
+4. **Am Text belegen:** Nutze passende Stellen aus dem Ausschnitt, um deine Aussagen zu stützen.
+5. **Textgebunden Stellung nehmen:** Beurteile eine Entscheidung, ein Verhalten oder eine Aussage und begründe deine Einschätzung mit dem Text und deinem Wissen über die Ganzschrift.
 
-Nicht jede Klassenarbeit muss alle fünf Teilaufgaben in gleicher Gewichtung enthalten. Die **Arbeitsoperationen bleiben jedoch bekannt**.
+Die letzte Aufgabe kann – wenn es zur gewählten Lektüre passt – zusätzlich einen **Bezug zur Gegenwart** herstellen.
 
 ## Prüfungsarchitektur
 
 Probearbeit und Lernerfolgskontrolle nutzen dieselbe Grundstruktur:
 
 1. Textausschnitt aus der Ganzschrift,
-2. kurze Aufgabe zum Textverständnis,
+2. Aufgabe zum Textverständnis,
 3. Einordnung in den Handlungszusammenhang,
 4. Untersuchung einer Figur oder Figurenbeziehung,
-5. Belege aus dem Text,
-6. kurze textgebundene Schluss- oder Stellungnahme.
+5. Textbelege,
+6. textgebundene Stellungnahme bzw. Reflexion.
 
-Damit bleibt die Arbeit klar bei Typ 4a und wird nicht zu einer freien Charakterisierung oder kreativen Schreibaufgabe.
+Kreative Schreibaufgaben aus der Reihe sind wichtige Lernwege, aber **nicht automatisch Teil der Typ-4a-Kernaufgabe**.
 
 ---
 
-# Kompetenzraster
+# Kompetenzraster der Lernerfolgskontrolle
 
 | Kompetenz | Mindeststandard | Regelstandard | Leistungsstandard |
 |---|---|---|---|
-| **K1 · Inhalt erfassen** | Ich erkenne die wichtigsten Ereignisse der Textstelle und gebe sie in verständlicher Reihenfolge wieder. | Ich unterscheide Wichtiges von weniger Wichtigem und fasse die zentralen Ereignisse knapp und überwiegend in eigenen Worten zusammen. | Ich fasse die Textstelle besonders präzise zusammen und zeige dabei bereits wichtige Zusammenhänge zwischen Ereignissen und Figuren. |
-| **K2 · Textstelle einordnen** | Ich kann erklären, wann die Szene ungefähr in der Geschichte stattfindet und nenne ein wichtiges Ereignis davor oder danach. | Ich ordne die Textstelle nachvollziehbar in den Handlungsverlauf ein und erkläre, welche vorherigen Ereignisse für das Verständnis wichtig sind. | Ich ordne die Szene präzise ein und erkläre zusätzlich, welche Bedeutung sie für die weitere Handlung oder Entwicklung einer Figur hat. |
-| **K3 · Figuren und Beziehungen untersuchen** | Ich beschreibe wichtige Handlungen oder Gefühle einer Figur und nenne eine passende Eigenschaft oder Aussage über die Beziehung zweier Figuren. | Ich leite Eigenschaften, Gefühle oder Beziehungen aus mehreren Beobachtungen der Textstelle ab und erkläre sie nachvollziehbar. | Ich untersuche Figuren besonders differenziert, verbinde mehrere Beobachtungen miteinander und zeige Entwicklungen oder Spannungen in ihrer Beziehung auf. |
+| **K1 · Inhalt erfassen und ordnen** | Ich erkenne die wichtigsten Ereignisse der Textstelle und gebe sie in verständlicher Reihenfolge wieder. | Ich unterscheide Wichtiges von weniger Wichtigem und fasse die zentralen Ereignisse knapp und überwiegend in eigenen Worten zusammen. | Ich fasse besonders präzise zusammen und zeige wichtige Zusammenhänge zwischen Ereignissen und Figuren. |
+| **K2 · Textstelle einordnen** | Ich erkläre, wann die Szene ungefähr in der Geschichte stattfindet, und nenne ein wichtiges Ereignis davor oder danach. | Ich ordne die Textstelle nachvollziehbar in den Handlungsverlauf ein und erkläre, welche vorherigen Ereignisse für das Verständnis wichtig sind. | Ich ordne die Szene präzise ein und erkläre zusätzlich ihre Bedeutung für die weitere Handlung oder Figurenentwicklung. |
+| **K3 · Figuren und Beziehungen untersuchen** | Ich beschreibe wichtige Handlungen oder Gefühle einer Figur und nenne eine passende Eigenschaft oder Aussage über eine Beziehung. | Ich leite Eigenschaften, Gefühle oder Beziehungen aus mehreren Beobachtungen der Textstelle ab und erkläre sie nachvollziehbar. | Ich untersuche Figuren differenziert, verbinde mehrere Beobachtungen und zeige Entwicklungen, Spannungen oder unterschiedliche Perspektiven auf. |
 | **K4 · Aussagen mit Textstellen belegen** | Ich finde mindestens eine passende Stelle im Text, die meine Aussage unterstützt. | Ich nutze mehrere passende Textstellen oder konkrete Textbezüge und erkläre, wie sie meine Aussagen stützen. | Ich wähle besonders aussagekräftige Belege aus, verbinde sie gezielt mit meiner Deutung und unterscheide Beobachtung und Schlussfolgerung klar. |
-| **K5 · Textgebunden erklären und Stellung nehmen** | Ich beantworte die Frage verständlich und begründe meine Meinung mit mindestens einem Bezug zur Textstelle oder zur Ganzschrift. | Ich formuliere eine nachvollziehbare Einschätzung und begründe sie mit mehreren passenden Beobachtungen aus Textstelle und Gesamtlektüre. | Ich wäge unterschiedliche Sichtweisen oder Handlungsmöglichkeiten ab und begründe meine Einschätzung besonders überzeugend mit dem Text. |
+| **K5 · Textgebunden Stellung nehmen und Bedeutung reflektieren** | Ich formuliere eine verständliche Einschätzung und begründe sie mit mindestens einem Bezug zur Textstelle oder Ganzschrift. | Ich begründe meine Einschätzung mit mehreren passenden Beobachtungen aus Textstelle und Gesamtlektüre und erkläre, warum das Verhalten oder Ereignis bedeutsam ist. | Ich wäge unterschiedliche Sichtweisen ab und kann – wenn die Aufgabe es verlangt – nachvollziehbar erklären, welche Bedeutung das Thema der Lektüre für die Gegenwart haben kann. |
 
-## Sprachliche Darstellung
+## Fünf Etappen der Reihe
 
-Für alle schriftlichen Antworten gilt zusätzlich:
+Die Etappen bilden nun die Breite des schulinternen Curriculums ab und führen trotzdem gezielt zur Typ-4a-Kernaufgabe.
 
-- in vollständigen und verständlichen Sätzen schreiben,
-- Aufgabenoperatoren genau beachten,
-- Textbezüge klar formulieren,
-- Präsens verwenden, wenn über literarische Texte geschrieben wird,
-- Groß- und Kleinschreibung sowie Satzzeichen prüfen.
+### Etappe 1 · In die Ganzschrift einsteigen und den Leseweg sichern
 
-Sprachliche Fehler sollen nicht mehrfach als fachliche Fehler gewertet werden.
+**Schwerpunkt:** Inhalt verstehen, Lesestrategien nutzen, Lesetagebuch beginnen.
 
-## Verbindung zum schulinternen Curriculum
+- Cover, Titel und erste Erwartungen erschließen.
+- Abschnitte lesen und wichtige Ereignisse sichern.
+- Zwischenüberschriften formulieren.
+- eigene Fragen an den Text stellen.
+- Lesetagebuch als fortlaufenden Arbeitsort einführen.
 
-| Schulinterne Vorgabe | Kompetenzraster |
-|---|---|
-| zentrale Aussagen identifizieren / Inhaltszusammenfassungen | K1 |
-| Handlung verstehen und Textstellen einordnen | K2 |
-| Figuren und Figurenbeziehungen untersuchen | K3 |
-| textbezogen arbeiten / Textstellen nutzen | K4 |
-| persönliche Stellungnahme textgebunden formulieren | K5 |
+**Beitrag zum Lernprodukt:** erste Einträge im Lesetagebuch / Portfolio.
 
-Kreative Formate wie Rollenbiografie, innerer Monolog oder Tagebucheintrag bleiben wichtige Lernwege und Produkte der Reihe, sind aber **nicht die Kernaufgabe der Typ-4a-Lernerfolgskontrolle**.
+### Etappe 2 · Handlung ordnen und Zusammenhänge verstehen
 
-## Konsequenz für die fünf Etappen
+**Schwerpunkt:** K1 und K2.
 
-1. **Die Ganzschrift erschließen und Handlung sichern** → K1
-2. **Textstellen in den Handlungszusammenhang einordnen** → K2
-3. **Figuren und Figurenbeziehungen untersuchen** → K3
-4. **Aussagen am Text belegen und genauer untersuchen** → K4
-5. **Untersuchungsergebnisse darstellen und textgebunden Stellung nehmen** → K1–K5, Schwerpunkt K5
+- wichtige Ereignisse ordnen,
+- Textabschnitte zusammenfassen,
+- Ursachen und Folgen verbinden,
+- Textstellen in den Handlungsverlauf einordnen.
 
-## Lesetagebuch und Portfolio
+**Beitrag zum Lernprodukt:** Handlungsübersicht, Kapitelüberschriften oder Zeitleiste im Lesetagebuch.
 
-Das schulinterne Curriculum nennt **Lesetagebuch / Klassenarbeit / Portfolio** als mögliche Überprüfungsformate. Lesetagebuch oder Portfolio können daher die Reihe begleiten und Lernprodukte sammeln.
+### Etappe 3 · Figuren und Beziehungen verstehen – Perspektiven gestalten
 
-Für die Jahresplanung wird dennoch eine eindeutige Typ-4a-Kernaufgabe vorgehalten. Sollte die Fachkonferenz oder die konkrete Unterrichtsplanung die Klassenarbeit in diesem Schuljahr durch eine andere zulässige Leistung ersetzen, kann das Portfolio entsprechend ausgebaut werden, ohne die hier aufgebauten Kompetenzen zu verändern.
+**Schwerpunkt:** K3.
+
+- Eigenschaften aus Handlungen und Äußerungen ableiten,
+- Figurenkonstellationen darstellen,
+- Beziehungen erklären,
+- Perspektiven von Figuren nachvollziehen.
+
+**Verbindliche kreative Lernwege:** mindestens ein Produkt wie
+
+- Rollenbiografie,
+- Tagebucheintrag,
+- innerer Monolog,
+- Brief aus Sicht einer Figur.
+
+Die kreative Aufgabe dient der **Vertiefung des Textverständnisses** und muss auf Informationen aus der Lektüre beruhen.
+
+**Beitrag zum Lernprodukt:** Figurenprodukt im Lesetagebuch / Portfolio.
+
+### Etappe 4 · Textstellen genau untersuchen und Aussagen belegen
+
+**Schwerpunkt:** K3 und K4; direkte Vorbereitung auf Typ 4a.
+
+- einen Ausschnitt genau lesen,
+- Beobachtung und Deutung unterscheiden,
+- passende Textstellen auswählen,
+- Eigenschaften und Beziehungen mit Belegen erklären,
+- kurze Untersuchungsaufgaben schreiben.
+
+**Beitrag zum Lernprodukt:** mindestens eine ausgearbeitete Textuntersuchung.
+
+### Etappe 5 · Stellung nehmen und Bedeutung der Lektüre reflektieren
+
+**Schwerpunkt:** K5 und Zusammenführung K1–K5.
+
+- Entscheidungen und Verhalten von Figuren beurteilen,
+- Einschätzungen textgebunden begründen,
+- unterschiedliche Sichtweisen vergleichen,
+- zentrale Themen der Lektüre benennen,
+- mögliche Bezüge zur eigenen Lebenswelt oder Gegenwart reflektieren.
+
+In dieser Etappe findet auch die **Probearbeit im Typ-4a-Format** statt.
+
+**Beitrag zum Lernprodukt:** Abschlussreflexion im Lesetagebuch / Portfolio.
+
+---
+
+# Lesetagebuch / Portfolio als roter Faden
+
+Das Lesetagebuch ist nicht nur Zusatzmaterial, sondern begleitet die gesamte Reihe.
+
+Es kann enthalten:
+
+1. Erwartungen und Fragen zur Lektüre,
+2. Kapitelüberschriften und Handlungsübersichten,
+3. Figurenkonstellationen,
+4. Rollenbiografie / innerer Monolog / Tagebucheintrag / Brief,
+5. Textbelege und Untersuchungsaufgaben,
+6. persönliche Stellungnahmen,
+7. Abschlussreflexion zur Bedeutung der Lektüre.
+
+Damit werden die im schulinternen Curriculum vorgesehenen kreativen und reflexiven Lernwege sichtbar, ohne die Typ-4a-Kernaufgabe der Lernerfolgskontrolle zu verwässern.
+
+## Nach den fünf Etappen
+
+Nach der Probearbeit können die Lernenden je nach Rückmeldung:
+
+- gezielt eine Kompetenz wiederholen,
+- einen Teilnachweis erneut erbringen,
+- das Lesetagebuch vervollständigen,
+- einen kreativen Perspektivtext überarbeiten,
+- eine zusätzliche Gegenwartsreflexion verfassen.
+
+Die Lernerfolgskontrolle nutzt anschließend einen neuen Textausschnitt aus derselben Ganzschrift und die bekannte Typ-4a-Aufgabenarchitektur.
