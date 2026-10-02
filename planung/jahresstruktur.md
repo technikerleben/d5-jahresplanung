@@ -7,8 +7,8 @@
 | 1 | Wunschbriefe | adressatengerecht Wünsche äußern und begründen | Typ 3 | bestehende Reihenstruktur | umgesetzt |
 | 2 | Zootiere | Informationen aus Material nutzen und Tierbeschreibung verfassen | Typ 2 | 3 | in Produktion / weit fortgeschritten |
 | 3 | Märchen | Märchenmuster produktionsorientiert nutzen | Typ 6 | 5 | geplant |
-| 4 | Unterwegs mit der Bahn | kontinuierliche und diskontinuierliche Materialien auswerten | Typ 4b | 5 | geplant |
-| 5 | Spannend erzählen · Zauberschule | spannende Erzählung planen und verfassen | Typ 1 | 5 | geplant |
+| 4 | Spannend erzählen · Zauberschule | spannende Erzählung planen und verfassen | Typ 1 | 5 | geplant |
+| 5 | Unterwegs mit der Bahn | kontinuierliche und diskontinuierliche Materialien auswerten | Typ 4b | 5 | geplant |
 | 6 | Ganzschrift | literarische Texte untersuchen und Leseerfahrungen dokumentieren | Typ 4a | 5 | geplant |
 
 Typ 5 – überarbeitendes Schreiben – bleibt für Jahrgang 5 bewusst ohne eigene Hauptreihe und kann in Jahrgang 6 gezielt zum Schwerpunkt werden.
