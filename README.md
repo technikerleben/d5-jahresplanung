@@ -15,6 +15,15 @@ Dieses Repository bündelt die **übergreifende Planung**, gemeinsame Standards 
 
 Aufgabentyp 5 wird nicht künstlich in Jahrgang 5 erzwungen und kann in Jahrgang 6 gezielt aufgegriffen werden.
 
+## Doppeljahrgangsstufe 5/6
+
+Die Planung für Jahrgang 5 wird bereits mit Blick auf das folgende Schuljahr aufgebaut:
+
+- [Doppeljahrgangsstufe 5/6 · Kompetenzaufbau und Aufgabentypen](planung/doppeljahrgangsstufe_5_6.md)
+- [Ausblick Jahrgang 6 · Grobraster](planung/jahrgang6_ausblick.md)
+
+Ziel ist ein kontinuierlicher Kompetenzaufbau über beide Jahre. Besonders wichtig: **Typ 5** ist in den aktuellen Jahresübersichten noch nicht als eigener Aufgabentyp belegt und bleibt deshalb ein bewusster Planungsauftrag.
+
 ## Gemeinsame SRL-Architektur
 
 Die Reihen werden grundsätzlich rückwärts von der zentralen Zielaufgabe geplant:
