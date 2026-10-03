@@ -36,3 +36,15 @@ Die Etappen bilden damit unmittelbar die im schulinternen Curriculum festgelegte
 ## Nächster Planungsschritt
 
 Die fünf Etappen jeweils mit **Input + identischem Merkblatt, Pflichtübungen, freiwilligen Vertiefungen und Gelingensnachweis** konkretisieren.
+
+## Sprachspur
+
+- Textfunktionen unterscheiden
+- Fachwortschatz zu Verkehr und Mobilität
+- Informationen in eigenen Worten wiedergeben
+- orientierendes, selektives und vergleichendes Lesen
+- analoge und digitale Informationen auswerten
+- einfache Quellenprüfung
+
+→ [Gesamte Sprachspur 5/6](../planung/sprachspur_5_6.md)
+
