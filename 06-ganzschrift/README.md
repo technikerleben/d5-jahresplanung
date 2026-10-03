@@ -49,3 +49,15 @@ Damit sind die im schulinternen Curriculum vorgesehenen kreativen und reflexiven
 ## Prüfungslogik
 
 Die Lernerfolgskontrolle bleibt klar Typ 4a. Kreative Schreibprodukte und Lesetagebuch vertiefen das Textverständnis, werden aber nicht automatisch Teil der Kernaufgabe der schriftlichen Prüfung.
+
+## Sprachspur
+
+- Figurenrede und Dialoge untersuchen
+- sprachliche Hinweise auf Gefühle, Beziehungen und Perspektiven
+- gestaltendes Vorlesen
+- textgebundene Antworten sprachlich prüfen
+- Buchkritik / Leseempfehlung
+- optional mediale Umformung, z. B. Hörszene oder szenisches Spiel
+
+→ [Gesamte Sprachspur 5/6](../planung/sprachspur_5_6.md)
+
