@@ -19,16 +19,16 @@ Dabei gelten zwei Grundsätze:
 | Aufgabentyp | Jahrgang 5 | Jahrgang 6 laut Planungsübersicht | Doppeljahrgangs-Status |
 |---|---|---|---|
 | **Typ 1** Erzählen | Spannend erzählen · Zauberschule | Weltraumexpedition | abgedeckt und aufbauend |
-| **Typ 2** sachlich berichten / beschreiben | Zootiere | Essen verbindet | abgedeckt und aufbauend |
+| **Typ 2** sachlich berichten / beschreiben | Zootiere | in Lernaufgaben von „Essen verbindet“ weitergeführt | in Jg. 5 als LEK abgedeckt; in Jg. 6 weitergeführt |
 | **Typ 3** begründet Stellung nehmen | Wunschbriefe | Und schon geht die Reise los | abgedeckt und aufbauend |
 | **Typ 4a** literarischen Text untersuchen | Ganzschrift | Natur · Gedichte | abgedeckt und aufbauend |
 | **Typ 4b** Informationen aus kontinuierlichen / diskontinuierlichen Texten ermitteln | Unterwegs mit der Bahn | Mehr als Sand und Meer | abgedeckt und aufbauend |
-| **Typ 5** einen Text nach vorgegebenen Kriterien überarbeiten | in mehreren Reihen angebahnt, aber keine eigene LEK | in der neuen Übersicht nicht ausgewiesen | **Klärpunkt** |
+| **Typ 5** einen Text nach vorgegebenen Kriterien überarbeiten | in mehreren Reihen angebahnt, aber keine eigene LEK | **Essen verbindet · LEK-Schwerpunkt** | abgedeckt |
 | **Typ 6** produktionsorientiert schreiben | Märchen | Lektüre | abgedeckt und aufbauend |
 
-## Typ 5 · bewusster Planungsauftrag
+## Typ 5 · verbindliche Zuordnung in Jahrgang 6
 
-Typ 5 ist derzeit weder in Klasse 5 noch in der neuen Jahrgang‑6-Übersicht als eigener Aufgabentyp ausgewiesen.
+Typ 5 wird in der Doppeljahrgangsstufe gezielt in der Reihe **„Essen verbindet“** als Schwerpunkt der Lernerfolgskontrolle verankert.
 
 **Anbahnung in Klasse 5:**
 - Wunschbriefe überarbeiten,
@@ -36,10 +36,10 @@ Typ 5 ist derzeit weder in Klasse 5 noch in der neuen Jahrgang‑6-Übersicht al
 - spannende Erzählungen mithilfe einer Checkliste verbessern,
 - Ganzschrift: kreative Texte überarbeiten.
 
-**Naheliegender Anker in Klasse 6:**
-Die Reihe **„Essen verbindet“** enthält bereits das Überarbeiten eines Rezepts nach vorgegebenen Kriterien. Deshalb eignet sie sich besonders für einen expliziten Typ‑5-Kompetenzcheck oder – falls die schulische Planung das zulässt – für eine Typ‑5-Lernerfolgskontrolle.
+**Festlegung für Klasse 6:**
+In **„Essen verbindet“** bleiben Lernaufgaben des Typs 2 erhalten: Vorgänge sachlich, geordnet und adressatengerecht beschreiben bzw. erklären. Der **Schwerpunkt der Lernerfolgskontrolle liegt jedoch auf Typ 5**: Ein vorgegebener Rezepttext wird anhand klarer Kriterien überarbeitet.
 
-> Klärpunkt für die Fachplanung: Muss jeder Aufgabentyp innerhalb 5/6 **als Klassenarbeit** vorkommen oder reicht eine verbindliche Behandlung als Prüfungsformat? Falls Typ 5 als Klassenarbeit vorkommen muss, sollte die Zuordnung einer Jahrgang‑6-Arbeit entsprechend angepasst werden.
+Damit bleibt die fachliche Arbeit an Vorgangsbeschreibungen erhalten, während Typ 5 in der Doppeljahrgangsstufe als Prüfungsformat ausdrücklich abgesichert wird.
 
 ---
 
@@ -50,7 +50,7 @@ Die folgende Reihenfolge stammt aus der vorliegenden Planung für das nächste S
 | Halbjahr | Thema | Aufgabentyp | Kompetenzkern | Anbahnung in Klasse 5 |
 |---|---|---|---|---|
 | 1 | **Mehr als Sand und Meer** · Sachtexte | 4b | Informationen aus Sachtexten und diskontinuierlichen Materialien entnehmen, vergleichen und Schlussfolgerungen ziehen | Unterwegs mit der Bahn: Sachtexte, Tabellen, Pläne, Informationen verbinden und Schlüsse ziehen |
-| 1 | **Essen verbindet** · Vorgangsbeschreibung | 2 | sachlich, geordnet und adressatengerecht beschreiben / erklären; Fachwortschatz nutzen | Zootiere: sachlich und genau formulieren, Informationen ordnen, zusammenhängenden Sachtext verfassen |
+| 1 | **Essen verbindet** · Vorgangsbeschreibung / Überarbeiten | **5 (LEK)** · Typ 2 in Lernaufgaben | Vorgänge sachlich und adressatengerecht formulieren; anschließend einen vorgegebenen Rezepttext kriteriengeleitet überarbeiten | Zootiere: sachlich und genau formulieren; alle Schreibreihen: Checklisten nutzen und gezielt überarbeiten |
 | 1 | **Weltraumexpedition** · Erzählen | 1 | aus Vorgaben eine zusammenhängende Erzählung planen, sprachlich gestalten und überarbeiten | Spannend erzählen · Zauberschule: Materialimpulse nutzen, Handlung planen, Spannung erzeugen, wörtliche Rede |
 | 2 | **Natur** · Gedichte | 4a | lyrische Texte erschließen, sprachliche Mittel erkennen und deren Wirkung erklären | Ganzschrift: Textstellen untersuchen, Aussagen belegen, Beobachtung und Deutung unterscheiden |
 | 2 | **Und schon geht die Reise los** · begründet Stellung nehmen | 3 | Position entwickeln, Gründe ordnen und nachvollziehbar begründen | Wunschbriefe: Wunsch / Position formulieren, passende Gründe entwickeln, adressatengerecht argumentieren |
@@ -90,7 +90,7 @@ Die folgende Reihenfolge stammt aus der vorliegenden Planung für das nächste S
 - Textplanung selbstständiger anwenden,
 - Texte stärker adressaten- und funktionsbezogen gestalten,
 - sprachliche und inhaltliche Überarbeitung gezielter begründen,
-- Typ 5 explizit als eigene Operation absichern.
+- Typ 5 in „Essen verbindet“ als Prüfungsoperation anwenden: einen vorgegebenen Text nach Kriterien überarbeiten.
 
 **Besonders vorbereitet durch:** Wunschbriefe + Märchen + Spannend erzählen.
 
