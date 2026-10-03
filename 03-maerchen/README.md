@@ -61,3 +61,15 @@ Ausformulierte und überarbeitete Märchentexte wandern in das gemeinsame Buch. 
 
 Etappe 1 materialisieren:
 **Input 1 + identisches Merkblatt 1 → Pflichtübungen → freiwillige Vertiefungen → Buchtext „Märchenanfang“ → GN1 „Ist das ein Märchen?“**
+
+## Sprachspur
+
+- Präteritum als typische Erzählzeit
+- Präsens und Präteritum vergleichen
+- Verbformen
+- wörtliche Rede und Zeichensetzung
+- Pronomen und Konjunktionen für Textzusammenhang
+- gestaltendes Vorlesen
+
+→ [Gesamte Sprachspur 5/6](../planung/sprachspur_5_6.md)
+
