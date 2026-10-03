@@ -19,3 +19,16 @@ Etappenwechsel aktuell ab mindestens 4 von 5 Kompetenzindikatoren. Danach Feedba
 ## Zielaufgabe
 
 Informationen aus Bild und Sachtext auswählen, ordnen und für einen eigenen sachlichen, zusammenhängenden Tiertext nutzen.
+
+## Sprachspur
+
+- Präsens als Zeitform sachlicher Tiertexte
+- Nomen, Artikel, Verb und Adjektiv
+- Großschreibung von Nomen
+- zusammengesetzte Nomen und Strategie „Wörter zerlegen“
+- genaue Verben und Adjektive
+- Satzgrenzen und Prüfschritte
+
+→ [Sprachspur für die Feinplanung Zootiere](Sprachspur_Feinplanung.md)  
+→ [Gesamte Sprachspur 5/6](../planung/sprachspur_5_6.md)
+
