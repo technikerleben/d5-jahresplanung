@@ -39,3 +39,11 @@ Die Planung von Jahrgang 5 wird bereits als erste Hälfte der Doppeljahrgangsstu
 → [Doppeljahrgangsstufe 5/6 · Kompetenzaufbau](doppeljahrgangsstufe_5_6.md)
 
 Besonders weiterzuführen sind die wiederkehrenden Routinen **Material auswerten, Schreibplan nutzen, Textbelege verwenden, begründen sowie kriteriengeleitet überarbeiten**.
+
+## Sprachspur
+
+Neben den fachlichen Reihen läuft eine verbindliche Querschnittsspur für **Sprache, Rechtschreibung, Kommunikation und Medien**.
+
+→ [Sprachspur Deutsch 5/6](sprachspur_5_6.md)
+
+Die Sprachthemen werden funktional in die Unterrichtsreihen integriert und spiralcurricular wieder aufgegriffen.
