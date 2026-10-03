@@ -29,3 +29,13 @@ Typ 5 – überarbeitendes Schreiben – bleibt für Jahrgang 5 bewusst ohne eig
 ## Unterschiedliche Reihenumfänge
 
 Die Architektur bleibt gleich, der Umfang nicht. Die Reihe Zootiere ist mit vier Wochen und acht Doppelstunden bewusst kompakter und umfasst drei Etappen. Ab Märchen steht mehr Zeit zur Verfügung; dort werden fünf Etappen als sinnvoller Rahmen genutzt.
+
+
+## Ausblick auf Jahrgang 6
+
+Die Planung von Jahrgang 5 wird bereits als erste Hälfte der Doppeljahrgangsstufe verstanden. Das grobe Raster für das folgende Schuljahr liegt unter:
+
+→ [Ausblick Jahrgang 6](jahrgang6_ausblick.md)  
+→ [Doppeljahrgangsstufe 5/6 · Kompetenzaufbau](doppeljahrgangsstufe_5_6.md)
+
+Besonders weiterzuführen sind die wiederkehrenden Routinen **Material auswerten, Schreibplan nutzen, Textbelege verwenden, begründen sowie kriteriengeleitet überarbeiten**.
