@@ -22,7 +22,7 @@ Die Planung für Jahrgang 5 wird bereits mit Blick auf das folgende Schuljahr au
 - [Doppeljahrgangsstufe 5/6 · Kompetenzaufbau und Aufgabentypen](planung/doppeljahrgangsstufe_5_6.md)
 - [Ausblick Jahrgang 6 · Grobraster](planung/jahrgang6_ausblick.md)
 
-Ziel ist ein kontinuierlicher Kompetenzaufbau über beide Jahre. Besonders wichtig: **Typ 5** ist in den aktuellen Jahresübersichten noch nicht als eigener Aufgabentyp belegt und bleibt deshalb ein bewusster Planungsauftrag.
+Ziel ist ein kontinuierlicher Kompetenzaufbau über beide Jahre. **Typ 5 wird in Jahrgang 6 in der Reihe „Essen verbindet“ als Schwerpunkt der Lernerfolgskontrolle verankert; Typ-2-Kompetenzen bleiben dort Teil der Lernaufgaben.**
 
 ## Gemeinsame SRL-Architektur
 
