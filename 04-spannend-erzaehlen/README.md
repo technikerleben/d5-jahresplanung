@@ -38,3 +38,16 @@ Das schulinterne Curriculum arbeitet mit „Gespenstercasting“. Die Zauberschu
 ## Nächster Planungsschritt
 
 Die fünf Etappen mit **Input + identischem Merkblatt, Pflichtübungen, freiwilligen Vertiefungen und Gelingensnachweis** konkretisieren.
+
+## Sprachspur
+
+- bekannte Erzählzeit sicher anwenden
+- Satzreihe und einfache Satzgefüge
+- Konjunktionen für Zusammenhang und Spannung
+- abwechslungsreiche Satzanfänge
+- treffende Verben
+- wörtliche Rede wiederholen und vertiefen
+- Peerfeedback sprachlich nutzen
+
+→ [Gesamte Sprachspur 5/6](../planung/sprachspur_5_6.md)
+
