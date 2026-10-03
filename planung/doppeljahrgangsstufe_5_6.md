@@ -180,3 +180,11 @@ Für die Materialentwicklung in Klasse 5 sollen deshalb bereits durchgängig fol
 - **Rückmeldung zur gezielten Verbesserung nutzen**
 
 Diese Routinen sollen in den unterschiedlichen Reihen wiedererkennbar gestaltet werden. Dadurch müssen sie in Klasse 6 nicht neu eingeführt, sondern können fachlich anspruchsvoller genutzt werden.
+
+## Sprachspur
+
+Neben den fachlichen Reihen läuft eine verbindliche Querschnittsspur für **Sprache, Rechtschreibung, Kommunikation und Medien**.
+
+→ [Sprachspur Deutsch 5/6](sprachspur_5_6.md)
+
+Die Sprachthemen werden funktional in die Unterrichtsreihen integriert und spiralcurricular wieder aufgegriffen.
